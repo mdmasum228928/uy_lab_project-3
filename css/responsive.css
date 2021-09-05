@@ -1,21 +1,30 @@
 @media (max-width: 575.98px) {
+    .logo a img{
+        width: 100px;
+    }
     .main_menu{
         display: none;
     }
     .menu_icon{
         display: block;
     }
+    .menu ul{
+        margin-top: 0px;
+    }
     /* menu area ends */
+    .banner_area{
+        margin: 0 70px;
+    }
     .banner_area h1{
-        font-size: 25px;
+        font-size: 18px;
         line-height: 30px;
     }
     .banner_area p{
-        font-size: 10px;
+        font-size: 7px;
     }
     .banner_area a{
-        font-size: 10px;
-        padding: 12px 36px;
+        font-size: 8px;
+        padding: 9px 27px;
     }
     /* header area ends */
     /* portfolio area starts */
@@ -28,7 +37,10 @@
     }
     /* portfolio area ends */
     .service_box{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
+    }
+    .ser_single_box{
+       margin: 0 40px 77px 40px;
     }
     .ser_single_box img{
         width: 52px;
@@ -61,12 +73,16 @@
         width: 100%;
     }
     .marketing_text p{
-        font-size: 22px;
-        width: 300px;
+        font-size: 15px;
+        width: 200px;
+    }
+    .marketing_text span{
+        font-size: 10px;
     }
     .marketing_shape{
-        margin-left: 150px;
+        margin-left: 120px;
     }
+    /* marketing area ends */
     /* download area starts */
     .downloder_area h2{
         font-size: 20px;
@@ -76,7 +92,6 @@
     }
     /* download area ends */
 
-    /* marketing area ends */
         /* address area starts */
         .add_left h3,
         .add_right h3,
