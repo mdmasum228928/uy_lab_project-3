@@ -1,0 +1,376 @@
+@media (max-width: 575.98px) {
+    .main_menu{
+        display: none;
+    }
+    .menu_icon{
+        display: block;
+    }
+    /* menu area ends */
+    .banner_area h1{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .banner_area p{
+        font-size: 10px;
+    }
+    .banner_area a{
+        font-size: 10px;
+        padding: 12px 36px;
+    }
+    /* header area ends */
+    /* portfolio area starts */
+    .portfolio_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .single_port{
+        width: 49%;
+    }
+    /* portfolio area ends */
+    .service_box{
+        grid-template-columns: 1fr 1fr;
+    }
+    .ser_single_box img{
+        width: 52px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .ser_single_box h5{
+        font-size: 10px;
+        margin-bottom: 16px;
+    }
+    .ser_single_box p{
+        font-size: 10px;
+    }
+    /* service area starts */
+    /* team area starts */
+    .single_member{
+        margin-right: 0;
+        width: 100%;
+    }
+    /* team area ends */
+    /* marketing area starts */
+    .marketing_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .marketing_left{
+        width: 100%;
+    }
+    .marketing_right{
+        width: 100%;
+    }
+    .marketing_text p{
+        font-size: 22px;
+        width: 300px;
+    }
+    .marketing_shape{
+        margin-left: 150px;
+    }
+    /* download area starts */
+    .downloder_area h2{
+        font-size: 20px;
+    }
+    .downloder_area a{
+        padding:12px 55px;
+    }
+    /* download area ends */
+
+    /* marketing area ends */
+        /* address area starts */
+        .add_left h3,
+        .add_right h3,
+        .add_middle h3{
+            font-size: 10px;
+        }
+        .add_left p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        .add_middle a{
+            width: 26px;
+            height: 26px;
+            line-height: 26px;
+        }
+        .add_right p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        /* address area ends */
+       
+}
+/* =============== 575 device ends============= */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .main_menu{
+        display: none;
+    }
+    .menu_icon{
+        display: block;
+    }
+    /* menu area ends */
+    .banner_area h1{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .banner_area p{
+        font-size: 10px;
+    }
+    .banner_area a{
+        font-size: 10px;
+        padding: 12px 36px;
+    }
+    /* header area ends */
+    /* portfolio area starts */
+    .portfolio_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .single_port{
+        width: 49%;
+    }
+    /* portfolio area ends */
+    .service_box{
+        grid-template-columns: 1fr 1fr;
+    }
+    .ser_single_box img{
+        width: 52px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .ser_single_box h5{
+        font-size: 10px;
+        margin-bottom: 16px;
+    }
+    .ser_single_box p{
+        font-size: 10px;
+    }
+    /* service area starts */
+    /* team area starts */
+    .single_member{
+        margin-right: 0;
+        width: 100%;
+    }
+    /* team area ends */
+    /* marketing area starts */
+    .marketing_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .marketing_left{
+        width: 100%;
+    }
+    .marketing_right{
+        width: 100%;
+    }
+    /* download area starts */
+    .downloder_area h2{
+        font-size: 20px;
+    }
+    .downloder_area a{
+        padding:12px 55px;
+    }
+    /* download area ends */
+
+    /* marketing area ends */
+        /* address area starts */
+        .add_left h3,
+        .add_right h3,
+        .add_middle h3{
+            font-size: 10px;
+        }
+        .add_left p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        .add_middle a{
+            width: 26px;
+            height: 26px;
+            line-height: 26px;
+        }
+        .add_right p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        /* address area ends */
+}
+/* ================= 767 px device ends */
+/* ============== 991 px device ends ================== */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .main_menu{
+        display: none;
+    }
+    .menu_icon{
+        display: block;
+    }
+    /* menu area ends */
+    .banner_area h1{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .banner_area p{
+        font-size: 10px;
+    }
+    .banner_area a{
+        font-size: 10px;
+        padding: 12px 36px;
+    }
+    /* header area ends */
+    /* portfolio area starts */
+    .portfolio_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .single_port{
+        width: 49%;
+    }
+    /* portfolio area ends */
+    .service_box{
+        grid-template-columns: 1fr 1fr;
+    }
+    .ser_single_box img{
+        width: 52px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .ser_single_box h5{
+        font-size: 10px;
+        margin-bottom: 16px;
+    }
+    .ser_single_box p{
+        font-size: 10px;
+    }
+    /* service area starts */
+    /* team area starts */
+    .single_member{
+        width: 45.1%;
+        margin-bottom: 50px;
+    }
+    /* team area ends */
+    /* marketing area starts */
+    .marketing_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .marketing_left{
+        width: 100%;
+    }
+    .marketing_right{
+        width: 100%;
+    }
+    /* download area starts */
+    .downloder_area h2{
+        font-size: 20px;
+    }
+    .downloder_area a{
+        padding:12px 55px;
+    }
+    /* download area ends */
+
+    /* marketing area ends */
+        /* address area starts */
+        .add_left h3,
+        .add_right h3,
+        .add_middle h3{
+            font-size: 10px;
+        }
+        .add_left p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        .add_middle a{
+            width: 26px;
+            height: 26px;
+            line-height: 26px;
+        }
+        .add_right p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        /* address area ends */
+}
+/* ============== 991 px device ends ================== */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .menu_icon{
+        display: none;
+    }
+    .menu ul a{
+        margin-right: 30px;
+    }
+    /* menu area ends */
+    .banner_area h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .banner_area{
+        margin: 0 19%;
+    }
+    .banner_area p{
+        font-size: 16px;
+    }
+    /* header area ends */
+    /* portfolio area starts */
+    .portfolio_area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .single_port{
+        width: 49%;
+    }
+    /* portfolio area ends */
+    .service_box{
+        grid-template-columns: 1fr 1fr;
+    }
+    .ser_single_box img{
+        width: 52px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .ser_single_box h5{
+        font-size: 10px;
+        margin-bottom: 16px;
+    }
+    .ser_single_box p{
+        font-size: 10px;
+        margin: 0 34px;
+    }
+    /* service area starts */
+    /* team area starts */
+    .single_member{
+        width: 45.1%;
+        margin-bottom: 50px;
+    }
+    /* team area ends */
+    /* marketing area starts */
+    .marketing_text p{
+        font-size: 26px;
+        width: 350px;
+        margin-top: 95px;
+    }
+    .marketing_shape{
+        margin-left: 200px;
+    }
+    /* download area ends */
+
+    /* marketing area ends */
+        /* address area starts */
+        .add_left h3,
+        .add_right h3,
+        .add_middle h3{
+            font-size: 10px;
+        }
+        .add_left p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        .add_middle a{
+            width: 26px;
+            height: 26px;
+            line-height: 26px;
+        }
+        .add_right p{
+            font-size: 10px;
+            margin: 0px;
+        }
+        /* address area ends */
+}
+/* ============== 1199 px device ends ================== */
